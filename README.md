@@ -1,2 +1,2 @@
 # api-bootcamp-santander
-Projeto criado para o BootCamp DIO - Santander
+Projeto backend criado para o bootcamp DIO - Santander
