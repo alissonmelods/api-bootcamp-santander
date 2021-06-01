@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para o Bootcamp Backend DIO - Santander - Desenvolvido por Pistonildo
+  description: Projeto backend criado para o bootcamp DIO - Santander
